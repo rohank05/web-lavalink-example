@@ -1,0 +1,22 @@
+{
+  "name": "lava-web-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "discord.js": "^13.6.0",
+    "erela.js": "^2.3.3",
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.7",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
+    "ws": "^8.4.2"
+  }
+}
